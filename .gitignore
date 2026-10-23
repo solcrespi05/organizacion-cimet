@@ -1,0 +1,7 @@
+# Las planillas de trabajo tienen nombres de archivos del Centro: nunca se suben.
+*.csv
+/config.md
+/referencia/
+__pycache__/
+.DS_Store
+Thumbs.db

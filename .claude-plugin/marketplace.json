@@ -1,0 +1,17 @@
+{
+  "name": "organizacion-cimet",
+  "owner": {
+    "name": "CIMET"
+  },
+  "metadata": {
+    "description": "Herramientas para ordenar el archivo regulatorio del Centro y migrarlo de Google Drive a SharePoint."
+  },
+  "plugins": [
+    {
+      "name": "archivo",
+      "source": "./plugins/archivo",
+      "description": "Ordena el archivo regulatorio y lo migra de Google Drive a SharePoint sin tocar los originales: inventario, plan revisable, copia verificada.",
+      "version": "0.1.0"
+    }
+  ]
+}

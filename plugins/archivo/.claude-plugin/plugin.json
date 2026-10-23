@@ -1,0 +1,9 @@
+{
+  "name": "archivo",
+  "version": "0.1.0",
+  "description": "Ordena el archivo regulatorio del Centro y lo migra de Google Drive a SharePoint sin tocar los originales: inventario, estructura basada en TMF, plan revisable, copia verificada con trazabilidad.",
+  "author": {
+    "name": "CIMET"
+  },
+  "keywords": ["regulatoria", "archivo", "TMF", "sharepoint", "google drive", "migración"]
+}
